@@ -8,7 +8,7 @@ I created this program as a test of the Unity platform and  C#
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2JqakbYc-mo)
 
 # Development Environment
 
@@ -27,6 +27,6 @@ the language is in C# and uses Unity libraries
 
 {Make a list of things that you need to fix, improve, and add in the future.}
 
-- Item 1- saving game results
-- Item 2 - AI implementation of computer opponent
-- Item 3- style edits
+
+- Item 1 - AI implementation of computer opponent
+- Item 2- style edits
